@@ -1,1 +1,2 @@
 ## Challenge: Juego del Número Secreto
+-- Desarrollo de una aplicación interactiva de adivinanzas utilizando JavaScript. El proyecto implementa la generación de números aleatorios, validación de entradas del usuario y un sistema de intentos con retroalimentación visual dinámica. Utilicé funciones recursivas para gestionar la lista de números sorteados, asegurando que cada número sea único durante la sesión de juego. El diseño se centra en la manipulación eficiente del DOM para actualizar etiquetas y mensajes en tiempo real.
